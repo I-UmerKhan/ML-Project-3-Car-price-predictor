@@ -6,7 +6,7 @@ To handle categorical features, I applied one-hot encoding and then deployed var
 
 For building the user interface, I used Flask within PyCharm, which provided an interactive and user-friendly way to input car details and obtain price predictions.
 
-![image](https://github.com/I-UmerKhan/Car_price_predictor/assets/103349712/40bffdac-f3d0-4586-8384-ec78392abb5f)
+![image](https://github.com/I-UmerKhan/Car_price_predictor/assets/103349712/57324930-c57a-4c18-8e46-48b8e38febe0)
 
-![image](https://github.com/I-UmerKhan/Car_price_predictor/assets/103349712/ffc717c9-7243-4696-8c3a-342d796637ce)
+![image](https://github.com/I-UmerKhan/Car_price_predictor/assets/103349712/bf65130f-999e-4e18-ab66-7f88476b9ac6)
 
